@@ -1,3 +1,6 @@
+Program ini merupakan sebuah program simulasi pertarungan robot. Pada awalnya tersedia 3 robot yang dapat dipilih untuk dipertarungkan. Setiap robot memiliki health dan attack power yang berbeda. Pada program ini, semakin tinggi health yang dimiliki suatu robot, maka semakin rendah attack power robot tersebut. Serangan yang dapat diberikan sebuah robot adalah random, berkisar antara 1 sampai attack power yang dimiliki suatu robot. Ketika program dijalankan, kita dapat memilih 2 robot yang akan saling dilagakan. Selanjutnya program akan menampilkan besar serangan yang diberikan sebuah robot ke robot lainnya. Akan ditampilkan juga sisa health yang dimiliki robot setelah menerima serangan. Robot yang pertama dengan sisa health <= 0 adalah robot yang kalah.
+
+
 Penjelasan Kode:
 
 
